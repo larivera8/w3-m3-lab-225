@@ -42,3 +42,4 @@ fahrenheit = float (input("Enter temperature in fahrenheit: "))
 celsius = (fahrenheit - 32) * 5/9
 print ("your given fahrenheit in celsius is", celsius)
        
+#You need to add the codes aboce to Lab Activity #3 and change the name of this repositry to Python Sample Codes.  -Sunhwa Nam
